@@ -1,0 +1,365 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Letter A in the British English Vocabulary Profile 'A1 - C2'</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="description" content="Browse word-list dictionary  Letter A in the British English Vocabulary Profile 'A1 - C2' from the Cambridge English Vocabulary Profile." />
+	<meta name="keywords" content="word-list, browse, english, dictionary, dictionaries, Cambridge free, american, definition, word, expression, phrase, example, phrasal verb, contemporary, elementary, intermediate, word search" />
+	<link href="/external/styles/interface.css" rel="stylesheet" type="text/css" />
+            <link href="/external/styles/browse_index.css" rel="stylesheet" type="text/css" />
+            <link href="/external/styles/print.css" rel="stylesheet" type="text/css" media="print"/>
+  	<link rel="icon" href="/external/images/favicon.png" type="image/png" />
+</head>
+<body>
+	<div class="banner"><a href="/"><img src="/external/images/banner-bg.jpg" alt="English Vocabulary Profile"/></a>
+</div>
+<div class="print-header"><span class="print-header">English Vocabulary Profile</span></div>   <!-- BEGIN: wrapper -->
+   <div id="wrapper">
+
+      <!-- BEGIN: cp (content panel) -->
+      <div class="content-panel">
+         <div class="dict-content-panel">
+            		
+
+<div id="browse_index">
+	<h1>Browsing letter <span class="word-list">A</span> in the <span class="word-list">British English Vocabulary Profile</span> '<span class="word-list">A1 - C2</span>'</h1>
+    <div id="letters" class="paging">
+	        <span><a href="/dictionary/word-list/uk/a1_c2/A" title="A" >A</a></span>
+	        <span><a href="/dictionary/word-list/uk/a1_c2/B" title="B" >B</a></span>
+	        <span><a href="/dictionary/word-list/uk/a1_c2/C" title="C" >C</a></span>
+	        <span><a href="/dictionary/word-list/uk/a1_c2/D" title="D" >D</a></span>
+	        <span><a href="/dictionary/word-list/uk/a1_c2/E" title="E" >E</a></span>
+	        <span><a href="/dictionary/word-list/uk/a1_c2/F" title="F" >F</a></span>
+	        <span><a href="/dictionary/word-list/uk/a1_c2/G" title="G" >G</a></span>
+	        <span><a href="/dictionary/word-list/uk/a1_c2/H" title="H" >H</a></span>
+	        <span><a href="/dictionary/word-list/uk/a1_c2/I" title="I" >I</a></span>
+	        <span><a href="/dictionary/word-list/uk/a1_c2/J" title="J" >J</a></span>
+	        <span><a href="/dictionary/word-list/uk/a1_c2/K" title="K" >K</a></span>
+	        <span><a href="/dictionary/word-list/uk/a1_c2/L" title="L" >L</a></span>
+	        <span><a href="/dictionary/word-list/uk/a1_c2/M" title="M" >M</a></span>
+	        <span><a href="/dictionary/word-list/uk/a1_c2/N" title="N" >N</a></span>
+	        <span><a href="/dictionary/word-list/uk/a1_c2/O" title="O" >O</a></span>
+	        <span><a href="/dictionary/word-list/uk/a1_c2/P" title="P" >P</a></span>
+	        <span><a href="/dictionary/word-list/uk/a1_c2/Q" title="Q" >Q</a></span>
+	        <span><a href="/dictionary/word-list/uk/a1_c2/R" title="R" >R</a></span>
+	        <span><a href="/dictionary/word-list/uk/a1_c2/S" title="S" >S</a></span>
+	        <span><a href="/dictionary/word-list/uk/a1_c2/T" title="T" >T</a></span>
+	        <span><a href="/dictionary/word-list/uk/a1_c2/U" title="U" >U</a></span>
+	        <span><a href="/dictionary/word-list/uk/a1_c2/V" title="V" >V</a></span>
+	        <span><a href="/dictionary/word-list/uk/a1_c2/W" title="W" >W</a></span>
+	        <span><a href="/dictionary/word-list/uk/a1_c2/X" title="X" >X</a></span>
+	        <span><a href="/dictionary/word-list/uk/a1_c2/Y" title="Y" >Y</a></span>
+	        <span><a href="/dictionary/word-list/uk/a1_c2/Z" title="Z" >Z</a></span>
+		</div>
+	        <div id="result">
+                        <a href="/dictionary/word-list/uk/a1_c2/A/1001757--3409948" title="Next"><span class="navigation-button">&gt;</span></a>
+                <ul>
+                    <li><a href="/dictionary/show/uk/1001497?showLevel=a1_c2#"><span class="display"><span class="base">a</span> <span class="pos">determiner</span> <span class="gw">NOT PARTICULAR</span> <span class="freq-A1">A1</span></span></a></li>
+                                <li><a href="/dictionary/show/uk/1001497?showLevel=a1_c2#1861849"><span class="display"><span class="base">a</span> <span class="pos">determiner</span> <span class="gw">ANY/EVERY</span> <span class="freq-A1">A1</span></span></a></li>
+                                <li><a href="/dictionary/show/uk/1001497?showLevel=a1_c2#2002795"><span class="display"><span class="base">a</span> <span class="pos">determiner</span> <span class="gw">ONE</span> <span class="freq-A1">A1</span></span></a></li>
+                                <li><a href="/dictionary/show/uk/1001497?showLevel=a1_c2#1861850"><span class="display"><span class="base">a</span> <span class="pos">determiner</span> <span class="gw">TYPE</span> <span class="freq-A1">A1</span></span></a></li>
+                                <li><a href="/dictionary/show/uk/1001497?showLevel=a1_c2#1861844"><span class="display"><span class="base">a</span> <span class="pos">determiner</span> <span class="gw">AMOUNTS</span> <span class="freq-A2">A2</span></span></a></li>
+                                <li><a href="/dictionary/show/uk/1001497?showLevel=a1_c2#1861847"><span class="display"><span class="base">a</span> <span class="pos">determiner</span> <span class="gw">AN ACTION</span> <span class="freq-A2">A2</span></span></a></li>
+                                <li><a href="/dictionary/show/uk/1001497?showLevel=a1_c2#1861845"><span class="display"><span class="base">a</span> <span class="pos">determiner</span> <span class="gw">TWO NOUNS</span> <span class="freq-A2">A2</span></span></a></li>
+                                <li><a href="/dictionary/show/uk/1001497?showLevel=a1_c2#1861846"><span class="display"><span class="base">a</span> <span class="pos">determiner</span> <span class="gw">UNIT</span> <span class="freq-A2">A2</span></span></a></li>
+                                <li><a href="/dictionary/show/uk/1001497?showLevel=a1_c2#1861853"><span class="display"><span class="base">a</span> <span class="pos">determiner</span> <span class="gw">WITH FRACTION</span> <span class="freq-A2">A2</span></span></a></li>
+                                <li><a href="/dictionary/show/uk/1001497?showLevel=a1_c2#1861852"><span class="display"><span class="base">a</span> <span class="pos">determiner</span> <span class="gw">PERIOD OF TIME</span> <span class="freq-A2">A2</span></span></a></li>
+                                <li><a href="/dictionary/show/uk/1001519?showLevel=a1_c2#"><span class="display"><span class="base">abandon</span> <span class="pos">verb</span> <span class="gw">LEAVE</span> <span class="freq-B2">B2</span></span></a></li>
+                                <li><a href="/dictionary/show/uk/1001519?showLevel=a1_c2#3297617"><span class="display"><span class="base">abandon</span> <span class="pos">verb</span> <span class="gw">STOP DOING</span> <span class="freq-C1">C1</span></span></a></li>
+                                <li><a href="/dictionary/show/uk/1861856?showLevel=a1_c2#"><span class="display"><span class="base">abandoned</span> <span class="pos">adjective</span> <span class="gw">EMPTY</span> <span class="freq-B2">B2</span></span></a></li>
+                                <li><a href="/dictionary/show/uk/1861856?showLevel=a1_c2#3308032"><span class="display"><span class="base">abandoned</span> <span class="pos">adjective</span> <span class="gw">LEFT SOMEWHERE</span> <span class="freq-B2">B2</span></span></a></li>
+                                <li><a href="/dictionary/show/uk/1001571?showLevel=a1_c2#"><span class="display"><span class="base">ability</span> <span class="pos">noun</span> <span class="freq-B1">B1</span></span></a></li>
+                                <li><a href="/dictionary/show/uk/1001582?showLevel=a1_c2#1001584"><span class="display"><span class="base">be able to do <span class="i">sth</span>                    </span> <span class="freq-A2">A2</span></span></a></li>
+                                <li><a href="/dictionary/show/uk/1001582?showLevel=a1_c2#3297619"><span class="display"><span class="base">able</span> <span class="pos">adjective</span> <span class="gw">CLEVER</span> <span class="freq-C2">C2</span></span></a></li>
+                                <li><a href="/dictionary/show/uk/3263492?showLevel=a1_c2#"><span class="display"><span class="base">abnormal</span> <span class="pos">adjective</span> <span class="freq-C1">C1</span></span></a></li>
+                                <li><a href="/dictionary/show/uk/3263499?showLevel=a1_c2#"><span class="display"><span class="base">aboard</span> <span class="pos">adverb</span><span class="sep">, </span><span class="pos">preposition</span> <span class="freq-C1">C1</span></span></a></li>
+                                <li><a href="/dictionary/show/uk/1001605?showLevel=a1_c2#"><span class="display"><span class="base">abolish</span> <span class="pos">verb</span> <span class="freq-B2">B2</span></span></a></li>
+                                <li><a href="/dictionary/show/uk/3263505?showLevel=a1_c2#"><span class="display"><span class="base">abortion</span> <span class="pos">noun</span> <span class="freq-C1">C1</span></span></a></li>
+                                <li><a href="/dictionary/show/uk/1001633?showLevel=a1_c2#"><span class="display"><span class="base">about</span> <span class="pos">preposition</span> <span class="gw">SUBJECT</span> <span class="freq-A1">A1</span></span></a></li>
+                                <li><a href="/dictionary/show/uk/1001633?showLevel=a1_c2#206"><span class="display"><span class="base">How/What about ...?</span> <span class="freq-A2">A2</span></span></a></li>
+                                <li><a href="/dictionary/show/uk/1001633?showLevel=a1_c2#3308039"><span class="display"><span class="base">How/What about ...?</span> <span class="freq-B1">B1</span></span></a></li>
+                                <li><a href="/dictionary/show/uk/1001633?showLevel=a1_c2#3001743"><span class="display"><span class="base">about</span> <span class="pos">adverb</span> <span class="freq-A1">A1</span></span></a></li>
+                                <li><a href="/dictionary/show/uk/1001633?showLevel=a1_c2#1099452"><span class="display"><span class="base">about</span> <span class="pos">adverb</span> <span class="gw">DIRECTION</span> <span class="freq-B2">B2</span></span></a></li>
+                                <li><a href="/dictionary/show/uk/1001633?showLevel=a1_c2#1001638"><span class="display"><span class="base">be (just) about to do <span class="i">sth</span>                    </span> <span class="freq-B1">B1</span></span></a></li>
+                                <li><a href="/dictionary/show/uk/1001641?showLevel=a1_c2#"><span class="display"><span class="base">above</span> <span class="pos">adverb</span><span class="sep">, </span><span class="pos">preposition</span> <span class="gw">HIGHER POSITION</span> <span class="freq-A1">A1</span></span></a></li>
+                                <li><a href="/dictionary/show/uk/1001641?showLevel=a1_c2#3001748"><span class="display"><span class="base">above</span> <span class="pos">adverb</span><span class="sep">, </span><span class="pos">preposition</span> <span class="gw">MORE</span> <span class="freq-A2">A2</span></span></a></li>
+                                <li><a href="/dictionary/show/uk/1001641?showLevel=a1_c2#1001643"><span class="display"><span class="base">above all</span> <span class="freq-B1">B1</span></span></a></li>
+                                <li><a href="/dictionary/show/uk/1001641?showLevel=a1_c2#3297621"><span class="display"><span class="base">above</span> <span class="pos">adverb</span><span class="sep">, </span><span class="pos">preposition</span> <span class="gw">TOO IMPORTANT</span> <span class="freq-C2">C2</span></span></a></li>
+                                <li><a href="/dictionary/show/uk/1001641?showLevel=a1_c2#3001751"><span class="display"><span class="base">above</span> <span class="pos">adverb</span><span class="sep">, </span><span class="pos">adjective</span> <span class="freq-B1">B1</span></span></a></li>
+                                <li><a href="/dictionary/show/uk/1001664?showLevel=a1_c2#"><span class="display"><span class="base">abroad</span> <span class="pos">adverb</span> <span class="freq-B1">B1</span></span></a></li>
+                                <li><a href="/dictionary/show/uk/3263511?showLevel=a1_c2#"><span class="display"><span class="base">abrupt</span> <span class="pos">adjective</span> <span class="gw">SUDDEN</span> <span class="freq-C2">C2</span></span></a></li>
+                                <li><a href="/dictionary/show/uk/3263511?showLevel=a1_c2#3263516"><span class="display"><span class="base">abrupt</span> <span class="pos">adjective</span> <span class="gw">RUDE</span> <span class="freq-C2">C2</span></span></a></li>
+                                <li><a href="/dictionary/show/uk/3409933?showLevel=a1_c2#"><span class="display"><span class="base">abruptly</span> <span class="pos">adverb</span> <span class="freq-C2">C2</span></span></a></li>
+                                <li><a href="/dictionary/show/uk/1001681?showLevel=a1_c2#"><span class="display"><span class="base">absence</span> <span class="pos">noun</span> <span class="gw">NOT PRESENT</span> <span class="freq-B2">B2</span></span></a></li>
+                                <li><a href="/dictionary/show/uk/1001681?showLevel=a1_c2#3001773"><span class="display"><span class="base">absence</span> <span class="pos">noun</span> <span class="gw">NOT EXISTING</span> <span class="freq-B2">B2</span></span></a></li>
+                                <li><a href="/dictionary/show/uk/1001683?showLevel=a1_c2#"><span class="display"><span class="base">absent</span> <span class="pos">adjective</span> <span class="freq-B1">B1</span></span></a></li>
+                                <li><a href="/dictionary/show/uk/1001699?showLevel=a1_c2#"><span class="display"><span class="base">absolute</span> <span class="pos">adjective</span> <span class="freq-B2">B2</span></span></a></li>
+                                <li><a href="/dictionary/show/uk/1001701?showLevel=a1_c2#"><span class="display"><span class="base">absolutely</span> <span class="pos">adverb</span> <span class="gw">COMPLETELY</span> <span class="freq-B1">B1</span></span></a></li>
+                                <li><a href="/dictionary/show/uk/1001701?showLevel=a1_c2#2002807"><span class="display"><span class="base">Absolutely!</span> <span class="freq-C1">C1</span></span></a></li>
+                                <li><a href="/dictionary/show/uk/1001701?showLevel=a1_c2#CLD_S_25818"><span class="display"><span class="base">Absolutely not.</span> <span class="freq-C2">C2</span></span></a></li>
+                                <li><a href="/dictionary/show/uk/1001714?showLevel=a1_c2#"><span class="display"><span class="base">absorb</span> <span class="pos">verb</span> <span class="gw">TAKE IN</span> <span class="freq-B2">B2</span></span></a></li>
+                                <li><a href="/dictionary/show/uk/1001714?showLevel=a1_c2#2002811"><span class="display"><span class="base">be absorbed in <span class="i">sth</span></span> <span class="freq-B2">B2</span></span></a></li>
+                                <li><a href="/dictionary/show/uk/1001714?showLevel=a1_c2#3297627"><span class="display"><span class="base">absorb</span> <span class="pos">verb</span> <span class="gw">REMEMBER</span> <span class="freq-C1">C1</span></span></a></li>
+                                <li><a href="/dictionary/show/uk/1001730?showLevel=a1_c2#"><span class="display"><span class="base">abstract</span> <span class="pos">adjective</span> <span class="gw">IDEAS</span> <span class="freq-B2">B2</span></span></a></li>
+                                <li><a href="/dictionary/show/uk/1001730?showLevel=a1_c2#2002815"><span class="display"><span class="base">abstract</span> <span class="pos">adjective</span> <span class="gw">ART</span> <span class="freq-B2">B2</span></span></a></li>
+                                <li><a href="/dictionary/show/uk/1001742?showLevel=a1_c2#"><span class="display"><span class="base">absurd</span> <span class="pos">adjective</span> <span class="freq-B2">B2</span></span></a></li>
+                                <li><a href="/dictionary/show/uk/1001757?showLevel=a1_c2#"><span class="display"><span class="base">abuse</span> <span class="pos">noun</span> <span class="gw">BAD TREATMENT</span> <span class="freq-B2">B2</span></span></a></li>
+                                        </ul>
+    </div>
+    </div>
+
+         </div>
+      </div>
+      <!--END: cp -->
+      
+      <!-- BEGIN: np (navigation panel) -->
+      <div id="np" class="navigation-panel">
+         <!-- BEGIN: sp (search panel) -->
+         <div id="search-panel" class="search-close-panel">
+            <div id="sole-navbtn-container" class="navbtn-container">
+                                                <span><img id="lang-uk-btn" src="/external/images/nav-lang-uk-active-btn.png" alt="British English"/></span><span><img id="lang-us-btn" src="/external/images/nav-lang-us-btn.png" alt="American English"/></span>
+               <div style="clear:both;"></div>
+            </div>
+
+            <div class="searchform-container">
+               <img id="searchform-bg" src="/external/images/searchform-bg.png" class="searchform-bg" alt="Search panel"/>
+                                             <form class="searchform" action="/dictionary/search/uk/">
+                                    <input type="hidden" id="lang-uk-searchurl" value="/dictionary/search/uk/"/>
+                  <input type="hidden" id="lang-us-searchurl" value="/dictionary/search/us/"/>
+                  <input type="hidden" name="pageSize" id="pageSizeHidden" value=""/>
+                  <div class="searchform-label">Choose level:</div>
+                  <div id="browselist">
+    <div class="wlblock">
+        <div><input type="radio" name="wl" value="301" other="/dictionary/word-list/uk/a1"/><span>A1</span></div>
+        <div><input type="radio" name="wl" value="1000" other="/dictionary/word-list/uk/a1_a2"/><span>A1-A2</span></div>
+        <div><input type="radio" name="wl" value="1001" other="/dictionary/word-list/uk/a1_b1"/><span>A1-B1</span></div>
+        <div><input type="radio" name="wl" value="1002" other="/dictionary/word-list/uk/a1_b2"/><span>A1-B2</span></div>
+        <div><input type="radio" name="wl" value="1003" other="/dictionary/word-list/uk/a1_c1"/><span>A1-C1</span></div>
+        <div><input type="radio" name="wl" value="" other="/dictionary/word-list/uk/a1_C2" checked="checked"/><span>A1-C2</span></div>
+    </div>
+    <div class="wlblock">
+        <div></div>
+        <div><input type="radio" name="wl" value="302" other="/dictionary/word-list/uk/a2"/><span>A2 only</span></div>
+        <div><input type="radio" name="wl" value="303" other="/dictionary/word-list/uk/b1"/><span>B1 only</span></div>
+        <div><input type="radio" name="wl" value="304" other="/dictionary/word-list/uk/b2"/><span>B2 only</span></div>
+        <div><input type="radio" name="wl" value="305" other="/dictionary/word-list/uk/c1"/><span>C1 only</span></div>
+        <div><input type="radio" name="wl" value="306" other="/dictionary/word-list/uk/c2"/><span>C2 only</span></div>
+    </div>
+
+    <div style="clear:both;"></div>
+</div>
+<div class="browse-index"><a href="/dictionary/word-list/uk/a1_c2" id="id_browse">Browse A-Z</a> <br/><b>OR</b></div>
+                  <div class="searchform-label">Enter a word or phrase</div>
+                  <input type="text" id="searchform-textbox" name="q" class="searchform-textbox"/>
+                  <div id="adv-container" class="advsearch-container">
+                     <img id="advsearch-bg" src="/external/images/advsearch-close-bg.png" class="advsearch-bg" alt="Advanced search"/>
+                     <div class="advsearch-filters-bg">
+                        <div id="advsearch-title" class="advsearch-title">
+                           <a href="#" title="Open/Close advanced search panel">
+                               <img src="/external/images/advsearch-open-btn.gif" alt="Open/Close advanced search panel"/>
+                               <span>ADVANCED SEARCH</span>
+                           </a>
+                        </div>
+                        <div id="advsearch-filterlist" class="advsearch-filterlist folded">
+                           <div class="advsearch-filter">
+    <div>Category</div>
+    <select name="c">
+        <option value="-1">--Any--</option>
+                    <option value="1">words</option>
+                    <option value="3">phrases</option>
+                    <option value="2">phrasal verbs</option>
+                    <option value="4">idioms</option>
+            </select>
+</div>
+<div class="advsearch-filter">
+    <div>Part of speech</div>
+    <select name="c">
+        <option value="-1">--Any--</option>
+                    <option value="10">adjectives</option>
+                    <option value="11">adverbs</option>
+                    <option value="12">conjunctions</option>
+                    <option value="13">determiners</option>
+                    <option value="14">exclamations</option>
+                    <option value="15">nouns</option>
+                    <option value="19">prepositions</option>
+                    <option value="20">pronouns</option>
+                    <option value="23">all verbs</option>
+                    <option value="24">auxiliary verbs</option>
+                    <option value="25">modal verbs</option>
+                    <option value="26">phrasal verbs</option>
+            </select>
+</div>
+<div class="advsearch-filter">
+    <div>Grammar</div>
+    <select name="c">
+        <option value="-1">--Any--</option>
+                    <option value="27">C-countable only</option>
+                    <option value="28">U-uncountable only</option>
+                    <option value="128">C or U</option>
+                    <option value="129">Plural nouns</option>
+                    <option value="29">Nouns with no plural</option>
+                    <option value="52">Nouns usually plural</option>
+                    <option value="53">Nouns usually with no plural</option>
+                    <option value="30">I-intransitive only</option>
+                    <option value="31">T-transitive only</option>
+                    <option value="131">I or T</option>
+                    <option value="47">+ singular or plural verb</option>
+                    <option value="51">often passive</option>
+            </select>
+</div>
+<div class="advsearch-filter">
+    <div>Usage</div>
+    <select name="c">
+        <option value="-1">--Any--</option>
+                    <option value="59">formal</option>
+                    <option value="61">informal</option>
+                    <option value="64">literary</option>
+            </select>
+</div>
+<div class="advsearch-filter">
+    <div>Topic</div>
+    <select name="c">
+        <option value="-1">--Any--</option>
+                    <option value="78">Animals</option>
+                    <option value="79">Arts and media</option>
+                    <option value="80">Body and health</option>
+                    <option value="82">Clothes</option>
+                    <option value="83">Communication</option>
+                    <option value="84">Crime</option>
+                    <option value="85">Describing things</option>
+                    <option value="86">Education</option>
+                    <option value="87">Food and drink</option>
+                    <option value="81">Homes and buildings</option>
+                    <option value="88">Money</option>
+                    <option value="89">Natural world</option>
+                    <option value="90">People: actions</option>
+                    <option value="91">People: appearance</option>
+                    <option value="92">People: personality</option>
+                    <option value="99">Politics</option>
+                    <option value="93">Relationships</option>
+                    <option value="94">Shopping</option>
+                    <option value="95">Sport and games</option>
+                    <option value="96">Technology</option>
+                    <option value="97">Travel</option>
+                    <option value="98">Work</option>
+            </select>
+</div>
+<div class="advsearch-filter">
+    <div>Prefix</div>
+    <select name="c">
+        <option value="-1">--Any--</option>
+                    <option value="206">dis-</option>
+                    <option value="208">il-</option>
+                    <option value="209">im-</option>
+                    <option value="210">in-</option>
+                    <option value="211">inter-</option>
+                    <option value="212">ir-</option>
+                    <option value="215">mis-</option>
+                    <option value="221">re-</option>
+                    <option value="226">un-</option>
+            </select>
+</div>
+<div class="advsearch-filter">
+    <div>Suffix</div>
+    <select name="c">
+        <option value="-1">--Any--</option>
+                    <option value="228">-able</option>
+                    <option value="230">-al</option>
+                    <option value="233">-ance</option>
+                    <option value="235">-ant</option>
+                    <option value="238">-ed</option>
+                    <option value="239">-ence</option>
+                    <option value="269">-ent</option>
+                    <option value="241">-er</option>
+                    <option value="245">-ful</option>
+                    <option value="247">-ible</option>
+                    <option value="248">-ic</option>
+                    <option value="250">-ing</option>
+                    <option value="251">-ion</option>
+                    <option value="253">-ish</option>
+                    <option value="254">-ism</option>
+                    <option value="255">-ist</option>
+                    <option value="256">-ity</option>
+                    <option value="268">-ive</option>
+                    <option value="257">-ize</option>
+                    <option value="258">-less</option>
+                    <option value="260">-ly</option>
+                    <option value="261">-ment</option>
+                    <option value="262">-ness</option>
+                    <option value="263">-or</option>
+                    <option value="264">-ous</option>
+                    <option value="265">-ship</option>
+                    <option value="267">-y</option>
+            </select>
+</div>
+                           <div class="searchform-btn-container">
+                               <input id="searchform-clear-btn" type="button" value="Clear filters"/>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div>
+                      <input type="checkbox" name="hide_offensive_words" id="hide_offensive_words-checkbox">Hide culturally sensitive words</input>
+                  </div>
+                  <div class="searchform-btn-container">
+                     <input id="searchform-search-btn" type="submit" value="Search"/>
+                  </div>
+               </form>
+            </div>
+         </div>
+         <!-- END: sp -->
+         <!-- BEGIN: gnp (global navigation panel) -->
+         <div class="links-panel">
+            <img src="/external/images/links-panel-bg.png" class="links-panel-bg" alt="Navigation panel"/>
+            <div class="links-content">
+               <a href="http://www.englishprofile.org/" class="lp-link">English Profile Home</a>
+               <a href="/staticfiles/about.html" class="lp-link">About English Vocabulary Profile</a>
+               <a href="http://www.englishprofile.org/index.php?option=com_content&view=category&layout=blog&id=906&Itemid=57" class="lp-link">Word of the Week</a>
+               <a href="/staticfiles/help.html" class="lp-link">Help</a>
+               <a href="http://www.englishprofile.org/index.php?option=com_rsform&view=rsform&Itemid=124" class="lp-link">Feedback</a>
+            </div>
+         </div>
+         <!-- END: gnp -->
+      </div>
+      <!--END: np -->
+   </div>
+   <!-- END: wrapper -->
+   <!--  footer start -->
+<div class="footer-panel">
+    <div class="collaborator-label">
+       English Profile is a collaborative <br />project between:
+    </div>
+    <div class="footer-content">
+       <img src="/external/images/footer-bg.png" class="footer-bg" usemap="#m_fp" alt="Contributors"/>
+       <map name="m_fp" id="m_fp">
+          <area title="University of Cambridge ESOL Examinations" alt="University of Cambridge ESOL Examinations" target="_blank" href="http://www.cambridgeesol.org/index.htm" coords="1,0,160,47" shape="rect"/>
+          <area title="University of Cambridge" alt="University of Cambridge" target="_blank" href="http://www.rceal.cam.ac.uk/" coords="390,2,517,46" shape="rect"/>
+          <area title="Cambridge University Press" alt="Cambridge University Press" target="_blank" href="http://www.cambridge.org/" coords="165,2,287,47" shape="rect"/>
+          <area title="University of Bedfordshire" alt="University of Bedfordshire" target="_blank" href="http://www.beds.ac.uk/bmri/crella" coords="523,3,629,45" shape="rect"/>
+          <area title="English UK" alt="English UK" target="_blank" href="http://www.englishuk.com/" coords="634,2,772,47" shape="rect"/>
+          <area title="British Council" alt="British Council" target="_blank" href="http://www.britishcouncil.org/home" coords="292,2,380,45" shape="rect"/>
+       </map>
+    </div>
+    <div class="footer-copyright">© English Profile 2012 | <a href="/staticfiles/terms.html">Terms and conditions</a> | <a href="/staticfiles/privacypolicy.html">Privacy policy</a></div>
+</div>
+<div class="print-footer"><span class="print-footer">© English Profile 2012</span></div>
+<!-- footer end -->
+   <script language="javascript" type="text/javascript" src="/common.js"></script>
+   <script language="javascript" type="text/javascript" src="/external/scripts/cepw.js"></script>
+   <script language="javascript" type="text/javascript" src="/external/scripts/pageState.js"></script>
+	<script language="javascript" type="text/javascript" src="/external/scripts/log.js"></script>
+   <script language="javascript" type="text/javascript">
+       $(document).ready(initPrivatePage);
+          </script>
+   <script type="text/javascript">
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl.": "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + 
+    "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+  try {
+    var pageTracker = _gat._getTracker("UA-28565629-1");
+    pageTracker._trackPageview();
+  } catch(err) {}
+</script></body>
+</html>
